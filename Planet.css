@@ -21,6 +21,11 @@ body{
   padding: 20px;
 }
 
+.vision {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
 
 div {
   background-color: lightgrey;
