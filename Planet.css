@@ -1,7 +1,14 @@
-<style>
 
-body{
-  	background-color: Black;
+
+<style>
+/*------------------------------------text box--*/
+/*------------------------------------background--*/
+body {
+background-color: #DBF9FC;
+}
+
+p {
+  background-image: url('img_girl.jpg');
 }
 
 
@@ -9,55 +16,68 @@ body{
   column-count: 3;
 }
 
-.city {
+/*------------------------------------red text box--*/
+.redbox
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+/*------------------------------------white text box--*/
+.whitebox
   background-color: tomato;
   color: white;
   border: 2px solid black;
   margin: 20px;
   padding: 20px;
 }
-
-.paris {
-  background-color: yellow;
+/*------------------------------------black test box--*/
+.blackbox
+  background-color: tomato;
   color: white;
   border: 2px solid black;
   margin: 20px;
   padding: 20px;
 }
-
+/*------------------------------------Writing frame--*/
 .vision {
-  border: 5px outset red;
-  background-color: lightblue;    
+  border: 6px outset red;
+  background-color: black;    
   text-align: center;
 }
-
+/*------------------------------------text box--*/
 div {
   background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  width: 777px;
+  border: 77px solid red;
+  padding: 77px;
+  margin: 77px;
 }
-
+/*------------------------------------text box--*/
 h1 {
-  color: White;
-  margin-left: 20px;
+  color: Grey;
+	font-size: 30px;
+ 	margin-left: 40px;
 }
+/*------------------------------------text box--*/
 h2 {
-	color: navy
+color: Grey
 		
-		
+/*------------------------------------text box--*/		
 h3 {
-  color: White;
-  margin-left: 20px;
+ color: Grey;
+ margin-left: 40px;
 }
+/*------------------------------------text box--*/
 h4 {
 	color: navyh1 {
-  color: White;
+  color: Grey;
   margin-left: 20px;
 }
+/*------------------------------------text box--*/
 h5 {
-	color: navy
+	color: Grey
 		
 h5 {
 		
