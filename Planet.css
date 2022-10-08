@@ -4,7 +4,7 @@
 /*------------------------------------text box--*/
 /*------------------------------------background--*/
 body {
-background-color: #DBF9FC;
+background-color: red;
 }
 .transcript {
   column-count: 3;
