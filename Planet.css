@@ -51,29 +51,33 @@ div {
 /*------------------------------------text box--*/
 h1 {
   color: Grey;
-	font-size: 30px;
- 	margin-left: 40px;
+	font-size: 40px;
+ 	margin-left: 10px;
 }
 /*------------------------------------text box--*/
 h2 {
-color: Grey
-		
+  color: Grey;
+	font-size: 30px;
+ 	margin-left: 20px;
+}	
 /*------------------------------------text box--*/		
 h3 {
- color: Grey;
- margin-left: 40px;
+  color: Grey;
+	font-size: 20px;
+ 	margin-left: 40px;
 }
 /*------------------------------------text box--*/
 
 h4 {
   color: Grey;
-  margin-right
-	: 20px;
+	font-size: 10px;
+ 	margin-left: 40px;
 }
 /*------------------------------------text box--*/
 h5 {
-	color: Grey
-		
+  color: Grey;
+	font-size: 5px;
+ 	margin-left: 40px;
 }
 		
 		
