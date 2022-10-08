@@ -6,12 +6,17 @@
 body {
 background-color: red;
 }
+body  {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+
 .transcript {
   column-count: 3;
 }
 
 /*------------------------------------red text box--*/
-.redbox
+.redbox {
   background-color: red;
   color: white;
   border: 77px solid black;
@@ -19,7 +24,7 @@ background-color: red;
   padding: 20px;
 }
 /*------------------------------------white text box--*/
-.whitebox
+.whitebox {
   background-color: white;
   color: white;
   border: 2px solid black;
@@ -27,7 +32,7 @@ background-color: red;
   padding: 77px;
 }
 /*------------------------------------black test box--*/
-.blackbox
+.blackbox {
   background-color: black;
   color: white;
   border: 2px solid grey;
@@ -56,13 +61,13 @@ h1 {
 }
 /*------------------------------------text box--*/
 h2 {
-  color: Grey;
+  color: red;
 	font-size: 30px;
  	margin-left: 20px;
 }	
 /*------------------------------------text box--*/		
 h3 {
-  color: Grey;
+  color: black;
 	font-size: 20px;
  	margin-left: 40px;
 }
