@@ -38,9 +38,8 @@ img2 {
 /*------------------------------------white text box--*/
 .whitebox {
 max-width: 100%;
-  height: auto;
-  background-color: red;
-  color: white;
+  background-color: white;
+  color: red;
   border: 2px solid black;
   margin: 10px;
   padding: 3px;
@@ -61,7 +60,7 @@ max-width: 100%;
 }
 /*------------------------------------text box--*/
 div {
-  background-color: lightgrey;
+  background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
   width: 777px;
   border: 77px solid red;
   padding: 77px;
