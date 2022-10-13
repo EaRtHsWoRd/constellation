@@ -23,7 +23,7 @@ img {
 
 /*------------------------------------red text box--*/
 .redbox {
-  background-color: red;
+  background-image: url("https://github.com/EaRtHsWoRd/constellation/blob/main/intercept.jpg");
   color: white;
   border: 3px solid black;
   margin: auto;
@@ -43,7 +43,7 @@ max-width: 100%;
   background-color: black;
   color: white;
   border: 2px solid grey;
-  margin: 77px;
+  margin: auto;
   padding: 40px;
 }
 /*------------------------------------Writing frame--*/
