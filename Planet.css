@@ -5,9 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Creepster=swap');
 
 body {
-background-color: red;
-}
-body  {
+
   background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
   background-color: #cccccc;
 }
@@ -67,28 +65,24 @@ div {
   padding: 77px;
   margin: 77px;
 }
-/*------------------------------------text box--*/
+/*------------------------------------HEADERS--*/
 h1 {
-  font-family: Creepster, sans-serif;
+  	font-family: "Times New Roman", Times, serif;
 	color: Grey;
-		font-size: 40px;
- 			margin-left: 10px;
-	                margin-right: 10px;
-			margin-bottom: 5px;
+	font-size: 40px;
+ 			
 }
 /*------------------------------------text box--*/
 h2 {
-  color: red;
-font-size: 30px;
- 	margin-left: 20px;
-	  font-family: "Times New Roman", Times, serif;
+	font-family: "Times New Roman", Times, serif;
+	color: red;
+	font-size: 30px;
 }	
 /*------------------------------------text box--*/		
 h3 {
 font-family: "Times New Roman", Times, serif;
   color: black;
 	font-size: 20px;
- 	margin-left: 40px;
 }
 /*------------------------------------text box--*/
 
