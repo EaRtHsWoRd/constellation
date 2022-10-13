@@ -1,8 +1,8 @@
 
+
+/*<style>*/
+
 /*
-<style>
-/*------------------------------------text box--*/
-/*------------------------------------background--*/
 @import url('https://fonts.googleapis.com/css?family=Creepster=swap');
 
 body {
@@ -16,14 +16,17 @@ body  {
 .transcript {
   column-count: 3;
 }
+/*-------------------------------------DOES img img2 no dot WORK?----------------*/
 
 
 img {
-  border-radius: 80%;
+max-width: 100%;
+  height: auto;
+  border-radius: 5%;
 }
 
 img {
-  border-radius: 20%;
+  border-radius: 5%;
 }
 
 
@@ -104,7 +107,7 @@ h5 {
 }
 
 /*&	
-  <\style>
+  <\style>*/
  
 		
 	
