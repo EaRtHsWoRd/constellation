@@ -37,6 +37,8 @@ img2 {
 }
 /*------------------------------------white text box--*/
 .whitebox {
+max-width: 100%;
+  height: auto;
   background-color: red;
   color: white;
   border: 2px solid black;
