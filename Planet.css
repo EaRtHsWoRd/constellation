@@ -7,11 +7,12 @@
 body {
 
   background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
-  background-color: #cccccc;
+
 }
 
 .transcript {
   column-count: 3;
+	
 }
 /*-------------------------------------DOES img img2 no dot WORK?----------------*/
 
@@ -22,18 +23,13 @@ max-width: 100%;
   border-radius: 5%;
 }
 
-img2 {
-  border-radius: 5%;
-}
-
-
 /*------------------------------------red text box--*/
 .redbox {
   background-color: red;
   color: white;
-  border: 77px solid black;
-  margin: 20px;
-  padding: 20px;
+  border: 3px solid black;
+  margin: 5px;
+  padding: 3px;
 }
 /*------------------------------------white text box--*/
 .whitebox {
@@ -70,8 +66,7 @@ div {
 h1 {
   	font-family: "Creepster", sans-serif;
 	color: Grey;
-	font-size: 40px;
- 			
+	font-size: 40px;			
 }
 /*------------------------------------text box--*/
 h2 {
