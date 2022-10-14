@@ -7,7 +7,7 @@
 body {
 
 	background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
-	background-repeat: repeat-y;
+	background-repeat: repeat repeat;
 }
 
 p {
