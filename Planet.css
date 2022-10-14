@@ -10,8 +10,9 @@ body {
 
 }
 
-.transcript {
-  column-count: 3;
+p {
+	column-count: 3;
+	color: red;
 	
 }
 /*-------------------------------------DIFFERENT IMAGE CLASSES?----------------*/
