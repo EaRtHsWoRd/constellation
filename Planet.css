@@ -29,6 +29,7 @@ img {
   border: 3px solid black;
   margin: auto;
   padding: 3px;
+word-wrap: break-word;
 }
 /*------------------------------------white text box--*/
 .whitebox {
@@ -38,6 +39,7 @@ max-width: 100%;
   border: 2px solid black;
   margin: auto;
   padding: 3px;
+word-wrap: break-word;
 }
 /*------------------------------------black test box--*/
 .blackbox {
@@ -46,6 +48,7 @@ max-width: 100%;
   border: 2px solid grey;
   margin: auto;
   padding: 40px;
+	word-wrap: break-word;
 }
 /*------------------------------------Writing frame--*/
 .vision {
@@ -56,10 +59,11 @@ max-width: 100%;
 /*------------------------------------text box--*/
 div {
   background-image: url("https://github.com/EaRtHsWoRd/constellation/blob/main/intercept.jpg");
-  width: 777px;
-  border: 77px solid red;
-  padding: 77px;
-  margin: 77px;
+  width: auto;
+  border: 5px solid red;
+  padding:3px;
+  margin: 1px;
+	word-wrap: break-word;
 }
 /*------------------------------------HEADERS--*/
 h1 {
