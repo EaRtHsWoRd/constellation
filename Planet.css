@@ -10,6 +10,7 @@ body  {
 {margin:0;}
 
 ul {
+font-family: "Creepster", sans-serif;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -27,7 +28,6 @@ li {
 li a {
 
   display: block;
-font-family: "Creepster", sans-serif;
   color: Red;
   text-align: Left;
   padding: 10px 30px;
