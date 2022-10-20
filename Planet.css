@@ -6,7 +6,7 @@ body  {
 	background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
 	background-repeat: repeat repeat;
 }
-/*------NAVBARTest*/
+
 {margin:0;}
 
 ul {
@@ -25,10 +25,12 @@ li {
 }
 
 li a {
+
   display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+font-family: "Creepster", sans-serif;
+  color: Red;
+  text-align: Left;
+  padding: 30px 16px;
   text-decoration: none;
 }
 
@@ -39,14 +41,6 @@ li a:hover:not(.active) {
 .active {
   background-color: #04AA6D;
 }
-
-
-
-
-
-
-
-/*------TEST WHERE THIS IS -----*/
 
 
 p {
