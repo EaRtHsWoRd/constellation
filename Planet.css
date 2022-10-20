@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Be Vietnam Pro=swap');
 body  {
 
-	background-image: url("https://raw.githubusercontent.com/EaRtHsWoRd/constellation/main/dark%20background.jpg");
+	background-image: url("dark%20background.jpg");
 	background-repeat: repeat repeat;
 }
 
@@ -58,7 +58,7 @@ img {
 
 /*------------------------------------red text box--*/
 .redbox {
-  background-image: url("https://github.com/EaRtHsWoRd/constellation/blob/main/intercept.jpg");
+  background-image: url("intercept.jpg");
   color: white;
   border: 3px solid black;
   margin: auto;
@@ -102,7 +102,7 @@ div {
 /*------------------------------------HEADERS--*/
 h1 {
   	font-family: "Press Start 2P", sans-serif;
-	color: Grey;
+	color: aquamarine;
 	font-size: 40px;
 	text-align: center;
 }
