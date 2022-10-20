@@ -48,7 +48,7 @@ li a:hover:not(.active) {
 }
 
 p {
-	column-count: 3;
+	font-family: "Times New Roman", sans-serif;
 	color: red;
 	
 }
@@ -136,7 +136,7 @@ h4 {
 h5 {
 	"Creepster", sans-serif;
   	color: Grey;
-	font-size: 5px;
+	font-size: 14px;
  	margin-left: 40px;
 	text-align: center;
 }
@@ -144,7 +144,7 @@ h5 {
 h6 {
 	"Be Vietnam Pro", sans-serif;
   	color: Grey;
-	font-size: 5px;
+	font-size: 30px;
  	margin-left: 40px;
 	text-align: Left;
 }
