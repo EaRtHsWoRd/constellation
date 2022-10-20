@@ -58,7 +58,7 @@ img {
 
 /*------------------------------------red text box--*/
 .redbox {
-  background-image: url("intercept.jpg");
+   background-color: grey;
   color: white;
   border: 3px solid black;
   margin: auto;
